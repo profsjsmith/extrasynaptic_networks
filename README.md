@@ -1,4 +1,4 @@
-JUPYTER notebook scripts and minor resource files used to generate Smith and Hawrylycz SfN 2024 “Homotypic Signaling” poster 
+JUPYTER notebook scripts and minor resource files used to generate Smith and Hawrylycz SfN 2024 “Homotypic Signaling” poster. A PDF version of the poster itself is also included.
 Stephen J Smith, 5 October 2024
 
 This zip archive includes all scripts and minor resource files used to generate all data graphics displayed on a poster presented at the 2024 Chicago Society for Neuroscience meeting:
